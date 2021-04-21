@@ -1,0 +1,171 @@
+#RM-Description
+{
+		text-align:center;
+		margin:0px;
+		background-image: linear-gradient(to right,#a4ebf3,#ccf2f4,#f4f9f9);
+}
+
+#RM-Heading, #Jin-Heading, #Jhope-Heading, #Jimin-Heading, #Tae-Heading, #JK-Heading, #Suga-Heading
+{
+		height:800px;
+		width:100%;
+		border-style: none;
+}
+#RM-Details
+{
+		position:absolute;
+		left:50px;
+		top:508px;
+}
+#RM1, #Jin1, #Jhope1, #Jimin1, #Tae1, #JK1, #Suga1
+{
+		margin-left:0px;
+		position:absolute;
+		top:10px;
+		left:20px;
+		height:500px;
+		width:350px;
+		border: 2px solid black; 
+}
+.RM, .Jin, .Jhope, .Jimin, .Tae, .JK, .Suga
+{
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
+	
+.RMmain, .Jinmain, .Jhopemain, .Jiminmain, .Taemain, .JKmain, .Sugamain
+{
+	height:800px;
+	width:70%;
+	position:absolute;
+	left:400px;
+	text-align:left;
+}
+#RM-Title, #Jin-Title, #Jhope-Title, #Jimin-Title, #Tae-Title, #JK-Title, #Suga-Title
+{
+	font-family: 'Satisfy', cursive;
+	font-size:400%;
+}
+.RM1, .Jin1, .Jhope1,.Jimin1, .Tae1, .JK1, .Suga1
+{
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.RMBasic
+{
+	background-color:#00adb5;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
+/*JIN*/
+#Jin-Description
+{
+		text-align:center;
+		margin:0px;
+		background-image: linear-gradient(to right,#ea86b6,#f3bad6,#fceef5);
+}
+.JinBasic
+{
+	background-color:#e05297;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+#Jin-Details
+{
+		position:absolute;
+		left:30px;
+		top:508px;
+}
+
+/*Jhope*/
+#Jhope-Description
+{
+		text-align:center;
+		margin:0px;
+		background-image: linear-gradient(to right,#ffdcb8,#ffeebb,#fdffbc);
+}
+.JhopeBasic
+{
+	background-color:#ffc1b6;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+#Jhope-Details
+{
+		position:absolute;
+		left:60px;
+		top:508px;
+}
+
+/*Jimin*/
+#Jimin-Description, #Tae-Description
+{
+		text-align:center;
+		margin:0px;
+		background-image: linear-gradient(to right,#fca652,#ffd57e,#ffefa0);
+}
+#Jimin-Details
+{
+		position:absolute;
+		left:50px;
+		top:508px;
+}
+.JiminBasic
+{
+	background-color:#ac4b1c;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
+/*V*/
+#Tae-Description
+{
+		text-align:center;
+		margin:0px;
+		background-image: linear-gradient(to right,#91c788,#ddffbc,#feffde);
+}
+.TaeBasic
+{
+	background-color:#52734d;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+#Tae-Details
+{
+		position:absolute;
+		left:50px;
+		top:508px;
+}
+
+/*JK*/
+#JK-Description
+{
+		text-align:center;
+		margin:0px;
+		background-image: linear-gradient(to right,#c9b6e4,#e1ccec,#f1f1f6);
+}
+#JK-Details
+{
+		position:absolute;
+		left:40px;
+		top:508px;
+}
+.JKBasic
+{
+	background-color:#be79df;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
+/*SUGA*/
+#Suga-Description
+{
+		text-align:center;
+		margin:0px;
+		background-image: linear-gradient(to right,#ece8d9,#faf6e9,#fffdf6);
+}
+#Suga-Details
+{
+		position:absolute;
+		left:30px;
+		top:508px;
+}
+.SugaBasic
+{
+	background-color:#e5cb97;
+	font-family: 'Noto Sans KR', sans-serif;
+}

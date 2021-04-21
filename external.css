@@ -1,0 +1,177 @@
+body
+{
+		text-align:center;
+		margin:0px;
+}
+#top-container
+{
+		height:770px;
+		width:100%;
+		border:0px solid black;
+		padding:40px 0px 0px 0px;
+		background-color: #dcd6f7;
+}
+#header_section
+{
+		height:400px;
+		width:1490px;
+		border:2px ridge black;
+		margin-left:10px;
+		box-shadow:8px 8px 8px black;
+		background-image: url('fourth.jpg');
+		background-size: 100% 100%;
+		border-radius:25px;
+
+		animation-name:anime;
+		animation-delay:1s;
+		animation-duration:20s;
+		animation-iteration-count:infinite;
+}
+		@keyframes anime
+			{
+				0%{background-image:url('fourth.jpg');box-shadow:10px 10px 10px black;}
+				20%{background-image:url('second.jpg');box-shadow:10px 10px 10px black;}
+				40%{background-image:url('third.jpg');box-shadow:10px 10px 10px black;}
+				60%{background-image:url('first.jpg');box-shadow:10px 10px 10px black;}
+				80%{background-image:url('sixth.jpg');box-shadow:10px 10px 10px black;}
+				100%{background-image:url('fifth.jpg');box-shadow:10px 10px 10px black;}
+			}
+
+#header_details
+{
+		height:200px;
+		width:95%;
+		
+		margin-top:10px;
+		margin-left:30px;
+		
+}
+#BTS-Description
+{
+		font-size: 125%;
+		color:#4e3d53;
+		font-family: 'Rubik', sans-serif;
+		text-align: center;
+		line-height:2;
+}
+hr
+{
+		border-top: 4px solid black;
+		margin-top: 6px;
+}
+
+#title
+{
+		font-family: 'Satisfy', cursive;
+		font-size:400%;
+		color:#4e3d53; /*26001b*//*845460*/
+		margin-top:0px;
+}
+#subtitle
+{
+		font-family: 'Satisfy', cursive;
+		font-size:150%;
+		margin-top: 0px;
+		bottom:50px;
+		color:#4e3d53;
+		position:absolute;
+		top: 120px;
+		right:200px;
+}
+
+#middle-container
+{
+		height:700px;
+		width:100%;
+		border:0px solid black;
+		padding:40px 0px 0px 0px;
+	 	background-color:white;
+}
+#Members-Profile
+{
+	margin-top: -25px;
+	font-family: 'Satisfy', cursive;
+	font-size: 400%;
+	color: #6a097d;
+}
+#Members-Details
+{
+	height:1200px;
+	width:70%;
+	/*border:1px solid black;*/
+	margin-top:-50px;
+	margin-left:280px;
+}
+.RM-Title
+{
+	height:200px;
+	width:200px;
+	float:left;
+	margin-right:30px;
+
+}
+#RM-Details, 
+{
+	height:200px;
+	width:450px;
+
+}
+.Jin-Title
+{
+	height:200px;
+	width:200px;
+	float:left;
+	position:absolute;
+	right:250px;
+}
+.JK-Title
+{
+	height:200px;
+	width:200px;
+	float:right;
+	position:absolute;
+	left:540px;
+}
+#Jin-Details
+{
+	height:200px;
+	width:450px;
+	position:relative;
+	bottom:99px;
+	left:550px;
+}
+#RM, #Jin
+{
+	position:relative;
+	top:60px;
+	
+}
+
+#RM, #Jin
+{
+	position:relative;
+	top:60px;
+	
+}
+
+#JK
+{
+	position:relative;
+	right:-490px;
+	top:50px;
+}
+
+#JK-Details, 
+{
+	height:200px;
+	width:450px;
+
+}
+.basic-info
+{
+	font-size: 16px;
+	color:#4e3d53;
+	font-family: 'Rubik', sans-serif;
+	text-align: left;
+	line-height:1;
+}
